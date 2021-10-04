@@ -1,2 +1,6 @@
 # udacity_repo
-MLops tutorial
+- git add
+- git commit
+- git push
+
+
